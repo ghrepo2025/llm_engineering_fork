@@ -18,9 +18,11 @@ langchain-text-splitters
 langchain-openai
 langchain-chroma
 langchain-community
+litellm
 datasets==3.6.0
 matplotlib
 google-generativeai
+google-genai
 anthropic
 chromadb
 plotly
